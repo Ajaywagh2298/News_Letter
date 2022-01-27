@@ -1,0 +1,142 @@
+.body{
+	background: #EAEAEA;
+}
+.main-container{
+	margin: 10%;
+	background: #E5E5E5;
+	height: 100%;
+	border: 2px solid white;
+}
+.second-container{
+	margin:4%;
+	border-radius: 20px;
+	background: white;
+}
+.img{
+	height:150px;
+	width: 150px;
+	margin-left:30%;
+	margin-top:20%;
+	border-radius: 100%;
+	background: #EAEAEA;
+	border: 3px solid #EAEAEA;
+}
+.title{
+	font-size: 3.3rem;
+	padding-top: 7%;
+	font-family:Helvetica;
+}
+.divider{
+	border: 1px solid #D1D1D6;
+	margin: 3%;
+	margin-top: 3%;
+	margin-bottom: 3%;
+}
+.img-box{
+	margin: 3%;
+	margin-top: 0;
+	margin-bottom: 3%;
+
+}
+.back-img{
+height: 330px;
+border-radius: 10px;
+width: 100%;
+}
+.para-box{
+	margin: 6%;
+	margin-top: 2%;
+	text-align: justify;
+	font-family: Verdana;
+	font-size: 16px;
+	line-height: 22px;
+	word-wrap: 2px;
+	margin-bottom: 2%;
+}
+.content-box{
+	margin: 6%;
+	margin-top: 2%;
+}
+.content-box-title{
+	font-family: Helvetica;
+	font-size: 16px;
+	 border-bottom: 3px solid #D5D8DC;
+}
+.content-box-title-date{
+	font-size: 26px;
+	font-weight: bold;
+}
+.content-box-img{
+	height: 150px;
+	width: 200px;
+}
+.content-para-box{
+	padding-left:12px;
+}
+.content-para-title{
+	margin-left: 5%;
+	font-size: 22px;
+	font-family: Helvetica;
+}
+.content-para-data{
+	margin-left: 5%;
+	font-size: 14px;
+	font-family: Helvetica;
+	text-align: justify;
+}
+.content-para-link{
+	margin-left: 5%;
+	font-size: 14px;
+	font-family: Helvetica;
+	text-align: justify;
+	color: #1ABC9C;
+}
+
+.content-para-title1{
+	margin-right: 3%;
+	font-size: 22px;
+	font-family: Helvetica;
+	text-align: justify;
+}
+.content-para-data1{
+	margin-right: 3%;
+	font-size: 14px;
+	font-family: Helvetica;
+	text-align: justify;
+}
+.content-para-link1{
+	margin-right: 3%;
+	font-size: 14px;
+	font-family: Helvetica;
+	text-align: justify;
+	color: #1ABC9C;
+}
+.footer{
+	margin: 3%;
+}
+.icon{
+	font-size: 16px;
+	margin-top: 5%;
+	padding-top: 2%;
+	font-family: Helvetica;
+	font-weight: bold;
+}
+.fab{
+	font-size: 60px;
+}
+.f{
+	font-size: 20px;
+}
+.c{
+	margin-top: 4%;
+	padding-top: 4%;
+	font-size: 16px;
+	
+}
+.te{
+	padding-top: 5%;
+	font-size: 20px;
+	font-weight: bold;
+	font-family:sans-serif;
+	color: #E67E22;
+}
